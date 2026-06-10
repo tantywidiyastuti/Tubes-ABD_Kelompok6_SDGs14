@@ -134,8 +134,13 @@ Untuk melihat laporan lengkap visualisasi ini, Anda dapat membuka dokumen ekspor
 
 ### 👥 Kontributor
 **Kelompok 6 - Analisis Big Data**
-* Tanty Widiyastuti
-* *(Anggota Kelompok Lain)*
+* Tanty Widiyastuti (123450094)
+* Dea Amanda (123450006)
+* Vira Putri Maharani (122450129)
+* Ridho Benedictus Togi Manik (123450060)
+* Daris Samudra (122450102)
+
+
 
 ---
 *Proyek ini didedikasikan untuk mendukung kesadaran global terhadap kelestarian ekosistem laut sesuai arahan SDGs 14.*
